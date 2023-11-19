@@ -1,6 +1,8 @@
 # Hello World! 👋
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Python](https://img.shields.io/badge/-Python-yellow)
+[![GitHub](https://img.shields.io/badge/GitHub-403--html-blue?style=flat-square&logo=github)](https://github.com/403-html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tymoteusz--stepien-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tymoteusz-stepien/)
+[![dev.to](https://img.shields.io/badge/dev.to-inanoniloquent-blue?style=flat-square&logo=dev.to)](https://dev.to/inanoniloquent)
 
 I'm Tymoteusz, a computer enthusiast who enjoys coding blunders and unexpected digital adventures. Embracing the spontaneity of "impulse" interactions has led me to some of the most memorable events of my life.
 
@@ -20,10 +22,3 @@ I completed my education at a IT technical high school, but I'm a firm believer 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=403-html&show_icons=true&theme=radical)
 
-## Let's Connect!
-
-I'm always open to collaborations and discussions. Whether it's tech-related or just a casual chat, feel free to connect with me. Let's create something amazing together!
-
-- [GitHub](https://github.com/403-html)
-- [LinkedIn](https://www.linkedin.com/in/tymoteusz-stepien/)
-- [dev.to](https://dev.to/inanoniloquent)
