@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tymoteusz--stepien-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tymoteusz-stepien/)
 [![dev.to](https://img.shields.io/badge/dev.to-inanoniloquent-blue?style=flat-square&logo=dev.to)](https://dev.to/inanoniloquent)
 
-I'm Tymoteusz, a computer enthusiast who enjoys coding blunders and unexpected digital adventures. Embracing the spontaneity of "impulse" interactions has led me to some of the most memorable events of my life.
+I'm Tymoteusz, a computer enthusiast passionate about coding and the pursuit of software quality. My background in QA, combined with embracing spontaneous digital interactions, has led to some truly memorable experiences.
 
 ## About Me
 
@@ -13,10 +13,6 @@ I'm Tymoteusz, a computer enthusiast who enjoys coding blunders and unexpected d
 - 🌲 TypeScript Playwright (also Cypress) user
 - 🐍 Python hobbyist
 - 🍫 Sweets fan; a bajaderka junky
-
-## Academic Background
-
-I completed my education at a IT technical high school, but I'm a firm believer in valuing experience over a degree. The real-world challenges and hands-on experiences have been my greatest teachers.
 
 ## GitHub Stats
 
