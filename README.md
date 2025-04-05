@@ -5,14 +5,17 @@
 [![dev.to](https://img.shields.io/badge/dev.to-inanoniloquent-blue?style=flat-square&logo=dev.to)](https://dev.to/inanoniloquent)
 ![NPM Downloads by package author](https://img.shields.io/npm-stat/dw/tstepien?label=npm%20packages%20downloads)
 
-I'm Tymoteusz, and I'm not just passionate about testing, coding – I'm obsessed with crafting high-quality software experiences. My journey in QA has been fueled by a love for automation and a fascination with optimizing the flow of processes.
+Hi, I'm Tymoteusz! I really love testing and coding. I care a lot about making software that works well for people.
 
-## Get to Know Me
+## About Me
 
-- I'm QA, automation enthusiast. I don't just find bugs; I build systems to hunt them down. Think of me as a digital detective for software quality.
-- I love streamlining workflows and making sure everything runs smoothly. Efficiency is my middle name (not really, but you get the idea).
-- Always learning, always growing.
-- Fueled by a constant supply of sweets, especially bajaderka – my kryptonite.
+- I work in QA and enjoy automation. I like finding bugs, but I enjoy building systems that catch bugs even more.
+
+- I'm always looking for ways to make work flow better and run smoother.
+
+- I never stop learning new things.
+
+- And yes, I run on sweets - especially bajaderka, which is my absolute weakness.
 
 ## GitHub Stats
 
